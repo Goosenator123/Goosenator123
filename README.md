@@ -1,5 +1,5 @@
 ### Hello
-I'm a student learning computer science.
+I'm a student learning coding as a hobby.
 
 
 <!--
